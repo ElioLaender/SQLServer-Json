@@ -1,0 +1,2 @@
+Link para download da base utilizada para os exercícios.
+https://caelum-online-public.s3.amazonaws.com/1942-sql-server-json/02/sql-server-json-arquivos-aula-2.zip
