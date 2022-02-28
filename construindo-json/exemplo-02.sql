@@ -1,5 +1,5 @@
 -----------------------------------------------------
--- AtenÁ„o: N„o necessariamente toda consulta ser· convertida em JSON da maneira informada anteriormente, isso depende de como a consulta È realizada. 
+-- Aten√ß√£o: N√£o necessariamente toda consulta ser√° convertida em JSON da maneira informada anteriormente, isso depende de como a consulta √© realizada. 
 -- Segue o exemplo de uma consulta realizada verificando metadados do SQLServer:
 -----------------------------------------------------
 -- Consulta exemplo 2
@@ -53,8 +53,8 @@ For Json Auto
 */
 -----------------------------------------------------
 /*
-Se tratando de uma consulta mais complexa, o SQLServer a forma de gerar o Json conforme os joins s„o projetados, 
-no exemplo acima temos o retorno onde o ˙nicos valores que n„o se repetem s„o os nomes das colunas, nesse caso foi gerado um sys.columns, 
+Se tratando de uma consulta mais complexa, o SQLServer gera o Json conforme os joins s√£o projetados, 
+no exemplo acima temos o retorno onde o √∫nicos valores que n√£o se repetem s√£o os nomes das colunas, nesse caso foi gerado um sys.columns, 
 conforme selecionado e o atributo name setado na forma de um array de objetos
 */
 ------------------------------------------------------
